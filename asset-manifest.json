@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wetherwebsite/static/css/main.d21c37db.css",
+    "main.js": "/wetherwebsite/static/js/main.b97605d8.js",
+    "index.html": "/wetherwebsite/index.html",
+    "main.d21c37db.css.map": "/wetherwebsite/static/css/main.d21c37db.css.map",
+    "main.b97605d8.js.map": "/wetherwebsite/static/js/main.b97605d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21c37db.css",
+    "static/js/main.b97605d8.js"
+  ]
+}
